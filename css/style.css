@@ -1,0 +1,12 @@
+ .faild{
+    color: red;
+}
+
+.success{
+    color: #0aa50a;
+}
+ 
+.user-container img{
+float: right;
+width: 60px;
+}
